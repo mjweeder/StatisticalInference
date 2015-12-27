@@ -1,0 +1,1 @@
+This is the readme file for Statistical Inference class project for Ron Collins
